@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Ekaterina Baidukova](https://up.htmlacademy.ru/react-individual/3/user/471547).
-* Наставник: `Неизвестно`.
+* Наставник: `Алексей Хабиров`.
 
 ---
 
